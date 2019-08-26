@@ -1,0 +1,17 @@
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\bin\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.deps.json
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\bin\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.runtimeconfig.json
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\bin\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.runtimeconfig.dev.json
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\bin\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.dll
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\bin\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.pdb
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\bin\Debug\netcoreapp2.2\DotNet.Microservices.Consul.Repository.dll
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\bin\Debug\netcoreapp2.2\DotNet.Microservices.Consul.Repository.pdb
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\obj\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.csprojAssemblyReference.cache
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\obj\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.csproj.CoreCompileInputs.cache
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\obj\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.RazorAssemblyInfo.cache
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\obj\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.RazorAssemblyInfo.cs
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\obj\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.AssemblyInfoInputs.cache
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\obj\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.AssemblyInfo.cs
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\obj\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.RazorTargetAssemblyInfo.cache
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\obj\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.csproj.CopyComplete
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\obj\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.dll
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul2.Apps\obj\Debug\netcoreapp2.2\DotNet.Microservices.Consul2.Apps.pdb

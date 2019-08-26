@@ -1,0 +1,16 @@
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\bin\Debug\netstandard2.0\DotNet.Microservices.Consul.Repository.deps.json
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\bin\Debug\netstandard2.0\DotNet.Microservices.Consul.Repository.dll
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.xml
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\obj\Debug\netstandard2.0\DotNet.Microservices.Consul.Repository.csprojAssemblyReference.cache
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\obj\Debug\netstandard2.0\DotNet.Microservices.Consul.Repository.csproj.CoreCompileInputs.cache
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\obj\Debug\netstandard2.0\DotNet.Microservices.Consul.Repository.AssemblyInfoInputs.cache
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\obj\Debug\netstandard2.0\DotNet.Microservices.Consul.Repository.AssemblyInfo.cs
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\obj\Debug\netstandard2.0\DotNet.Microservices.Consul.Repository.csproj.CopyComplete
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\bin\Debug\netstandard2.0\DotNet.Microservices.Consul.Repository.pdb
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\bin\Debug\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Hosting.Abstractions.xml
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\bin\Debug\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\obj\Debug\netstandard2.0\DotNet.Microservices.Consul.Repository.dll
+G:\MyCode\Consul\DotNet.Microservices.Consul\DotNet.Microservices.Consul.Repository\obj\Debug\netstandard2.0\DotNet.Microservices.Consul.Repository.pdb
