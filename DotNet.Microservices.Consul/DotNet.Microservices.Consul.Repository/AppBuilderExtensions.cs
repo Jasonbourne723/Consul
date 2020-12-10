@@ -28,11 +28,10 @@ namespace DotNet.Microservices.Consul.Repository
 			//注册
 			var registrtion = new AgentServiceRegistration()
 			{
-
 				Checks = new[] { httpCheck },
 				ID = consul["ServerName"] + Guid.NewGuid().ToString(),//服务编号不可重复
 				Name = consul["ServerName"],//服务名称
-				Address = "localhost",//ip地址
+				Address = NetworkHelper.LocalIPAddress,//ip地址
 				Port = int.Parse(consul["LocalPort"])//端口
 
 			};
